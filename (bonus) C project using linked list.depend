@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1685103864 source:d:\c prgrmz\cd blcks\(bonus) c project using linked list\main.c
+	<stdio.h>
+	<stdlib.h>
+	"SDBAPP.h"
+
+1685141548 d:\c prgrmz\cd blcks\(bonus) c project using linked list\sdbapp_by_linked_list.h
+	"SDB_by_Linked_List.h"
+
+1685149912 d:\c prgrmz\cd blcks\(bonus) c project using linked list\sdb_by_linked_list.h
+
+1685142710 source:d:\c prgrmz\cd blcks\(bonus) c project using linked list\sdb_by_linked_list.c
+	<stdio.h>
+	<stdlib.h>
+	"SDB_by_Linked_List.h"
+
+1685148872 source:d:\c prgrmz\cd blcks\(bonus) c project using linked list\sdbapp_by_linked_list.c
+	"SDB_by_Linked_List.h"
+
+1684916450 d:\c prgrmz\cd blcks\(bonus) c project using linked list\sdbapp.h
+	"SDB.h"
+
