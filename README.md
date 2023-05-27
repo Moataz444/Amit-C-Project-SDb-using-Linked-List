@@ -5,33 +5,41 @@ with CRUD operations using C language
 
 1 add entry
 
-![1 add entry](https://github.com/Moataz444/Amit-C-Project-SDb-using-Linked-List/assets/107572274/61420ec1-74aa-4657-b762-c1cf45cb99dd)
+ ![1 add entry](https://github.com/Moataz444/Amit-C-Project-SDb-using-Linked-List/assets/107572274/30639ef6-2ffd-4cef-96f9-a6a852c70184)
+
 
 2 get used size
 
-![2 get used size](https://github.com/Moataz444/Amit-C-Project-SDb-using-Linked-List/assets/107572274/9a780126-9e86-467e-87fa-c4fc24917783)
+ ![2 get used size](https://github.com/Moataz444/Amit-C-Project-SDb-using-Linked-List/assets/107572274/ce7b5622-4bce-474d-a785-eb4832273dd5)
+
 
 3 read student data
 
-![3 read student data](https://github.com/Moataz444/Amit-C-Project-SDb-using-Linked-List/assets/107572274/1dd2e819-ac06-4c3d-94c8-b02339680491)
+ ![3 read student data](https://github.com/Moataz444/Amit-C-Project-SDb-using-Linked-List/assets/107572274/9953e67a-b434-495a-949e-0388a9841583)
+
 
 4 get list of all student IDs
 
-![4 get list of all student IDs](https://github.com/Moataz444/Amit-C-Project-SDb-using-Linked-List/assets/107572274/e1b2f5c2-2135-436a-8ab5-9cc3ebdb69f5)
+ ![4 get list of all student IDs](https://github.com/Moataz444/Amit-C-Project-SDb-using-Linked-List/assets/107572274/51bf28dc-592e-41c1-80b4-7fe042f424c1)
+
 
 5 check if ID is exists
 
-![5 check if ID is exists](https://github.com/Moataz444/Amit-C-Project-SDb-using-Linked-List/assets/107572274/08994664-d1e1-4c1d-a3b6-4c5f032a6aed)
+ ![5 check if ID is exists](https://github.com/Moataz444/Amit-C-Project-SDb-using-Linked-List/assets/107572274/1cd3595b-eadd-4b3f-ab4f-f8a36e1b57ac)
+
 
 6 delete student data
 
-![6 delete student data](https://github.com/Moataz444/Amit-C-Project-SDb-using-Linked-List/assets/107572274/8a4a1fdd-18ae-4712-8313-8d2fd51542db)
+ ![6 delete student data](https://github.com/Moataz444/Amit-C-Project-SDb-using-Linked-List/assets/107572274/2c3a71b0-a26d-43c3-8006-a1a9a2b03252)
+
 
 7  check is database is full
 
-![7  check is database is full](https://github.com/Moataz444/Amit-C-Project-SDb-using-Linked-List/assets/107572274/a0233057-4368-43de-93c8-e640eb14b61a)
+ ![7  check is database is full](https://github.com/Moataz444/Amit-C-Project-SDb-using-Linked-List/assets/107572274/c8515d20-b077-47c9-8f3a-dc633dd1f492)
+
 
 8 exit
 
-![8 exit](https://github.com/Moataz444/Amit-C-Project-SDb-using-Linked-List/assets/107572274/4fd74bff-4c1c-4acf-9c5c-1045ff9301e2)
+ ![8 exit](https://github.com/Moataz444/Amit-C-Project-SDb-using-Linked-List/assets/107572274/a323cbe0-d6cb-408b-a7b0-110cfc2edbfc)
+
 
